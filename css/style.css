@@ -1,0 +1,18 @@
+.wrap{
+	width: 80%;
+	display: block;
+	margin: 0px auto;
+}
+.mx-tab{
+	width: 100%;
+	margin-top: 16px;
+	display: block;
+	border: 3px solid #e8bb22;
+}
+.mx-tab > span{
+	display: block;
+	margin: 15px 20px;
+	background-image: url(../img/arrow.png);
+	background-repeat: no-repeat;
+	background-position: right;
+}
