@@ -10,6 +10,7 @@
 	display: block;
 	box-sizing: border-box;
 	border: 3px solid #e8bb22;
+	overflow: hidden;
 }
 .mx-tab > span{
 	display: block;
@@ -22,5 +23,11 @@
 	cursor: pointer;
 }
 .mx-active{
-	height: 156px;
+	height: 256px;
+}
+.mx-cont{
+	height: 180px;
+	display: block;
+	margin: 10px;
+	overflow: auto;
 }
